@@ -6,7 +6,7 @@ Original file is located at
     https://colab.research.google.com/drive/1_eajFZ1ukbmpMwEO0XZQZFlwreZ4ZTf3
 
 <font color=Red><h1><b>
-REMINDER: Make a copy of this notebook if you want to save your work.
+// Make a copy of this notebook if you want to save your work.
 </b></h1></font>
 
 <font color=DarkGray><h3><b>
